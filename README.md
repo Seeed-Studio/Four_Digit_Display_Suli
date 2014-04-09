@@ -27,11 +27,13 @@ This function use to initialize the device at the very beginning. You can set th
 
 	void four_digit_init(PIN_T data, PIN_T clk);
 
+
 **Set Brightness**
 
 This function can set the brightness of the device. 
 
 	void four_digit_set_brightness(enum brightness_t b);
+
 
 And the enum of brightness was defined in Four_Digit_Display.h
 
@@ -49,11 +51,13 @@ You can find a colon in the middle of the display. This function can turn on and
 
 	void four_digit_set_point(bool disp_point);		// 1-on, 0-off
 
+
 **Display a Bit**
 
 You can find 4Bit in the display. 
 
 	void four_digit_display(uint8 BitAddr,int8 DispData);
+
 
 BitAddr: 0-3, from right to left
 DispData: number to display, should be between 0-9
@@ -65,7 +69,7 @@ Clear all the display.
 
 	void four_digit_clear();
 
-
+<br>
 -----
 **Note:**
 
@@ -81,7 +85,7 @@ Just like you use the other Library, What's different is you should download Sul
 
 For a non-Arduino platform, what you need is xxx.h and xxx.cpp(you can change it to xxx.c while your compiler can't support c++), the other files like xxx_Arduino.h and examples is for Arduino, you can just delete them.
 
-
+<br>
 ----
 This software is written by Loovee for seeed studio<br>
 and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
