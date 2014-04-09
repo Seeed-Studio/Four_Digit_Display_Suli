@@ -1,4 +1,4 @@
-LED Bar Suli
+Four Digit Display Suli
 -------------------------------------------------------------
 ![image](http://www.seeedstudio.com/depot/images/product/4-Digital%20Display.jpg)
 
