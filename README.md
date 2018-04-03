@@ -1,9 +1,11 @@
 Four Digit Display Suli
 -------------------------------------------------------------
-![image](http://www.seeedstudio.com/depot/images/product/4-Digital%20Display.jpg)
+![](https://statics3.seeedstudio.com/images/product/4-Digital%20Display.jpg)
 
-4 digit display module is usually a 12 pin module. In this Grove gadget, we utilize a TM1637 to scale down the controlling pins into 2 Grove pins. It only takes 2 digital pins of Arduino or Seeeduino to control the content, even the luminance of this display. For projects that require of alpha-numeric display, this can be a nice choice.
+4 digit display module is usually a 12 pin module. In this Grove gadget, we utilize a TM1637 to scale down the controlling pins into 2 Grove pins. It only takes 2 digital pins of Arduino or Seeeduino to control the content, even the luminance of this display. For projects that require of alpha-numeric display, this can be a nice choice.For more information visit our [wiki](http://wiki.seeedstudio.com/Grove-4-Digit_Display/)
  
+[Grove - 4-Digit Display](https://www.seeedstudio.com/Grove-4-Digit-Display-p-1198.html)
+
 **Features**
 
 * 4 digit red alpha-numeric display
