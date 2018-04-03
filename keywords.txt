@@ -1,0 +1,24 @@
+  
+#######################################
+# Syntax Coloring Map For Four Digit 
+# Display Suli
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+begin	KEYWORD1
+clear	KEYWORD1
+display	KEYWORD1
+pointOn	KEYWORD1
+pointOff	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
