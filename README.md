@@ -1,4 +1,4 @@
-Four Digit Display Suli
+Four Digit Display Suli  [![Build Status](https://travis-ci.com/Seeed-Studio/Four_Digit_Display_Suli.svg?branch=master)](https://travis-ci.com/Seeed-Studio/Four_Digit_Display_Suli)
 -------------------------------------------------------------
 ![](https://statics3.seeedstudio.com/images/product/4-Digital%20Display.jpg)
 
